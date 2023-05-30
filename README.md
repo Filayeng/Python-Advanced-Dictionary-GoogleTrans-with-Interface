@@ -1,4 +1,4 @@
-# Python-Dictionary-GoogleTrans-Advanced-Interface
+# Python-Advanced-Dictionary-GoogleTrans-Interface
 
 <img src="https://live.staticflickr.com/65535/52938078968_ea5607406d_z.jpg" alt="thumbnail" class="center">
 
