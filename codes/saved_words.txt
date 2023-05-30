@@ -1,0 +1,9 @@
+> children = çocuklar
+      > Children were playing footbaal.
+      >Çocuklar futbol oynuyorlardı.
+> software = yazılım
+      > I am a Software Engineer
+      >Ben bir yazılım mühendisiyim
+> independece = bağımsızlık
+      > Mexico gained its independence from Spain in 1821.
+      >Meksika, 1821'de İspanya'dan bağımsızlığını kazandı.
